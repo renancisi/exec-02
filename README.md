@@ -6,7 +6,7 @@ minishift's quickstart guide https://docs.openshift.org/latest/minishift/getting
 # Table of Contents
 - [Prerequisites](#prerequisites)
 - [Quick Start](#quick-start)
-- [Example compose](#example-compose)
+- [Example](#example-minishift-box)
 - [Documentation](#documentation-and-reasons-for-the-used-technologies)
 
 # Prerequisites
